@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/facebook1-react/static/css/main.7411700f.css",
+    "main.js": "/facebook1-react/static/js/main.dcd2562e.js",
+    "static/js/453.857d52a9.chunk.js": "/facebook1-react/static/js/453.857d52a9.chunk.js",
+    "index.html": "/facebook1-react/index.html",
+    "main.7411700f.css.map": "/facebook1-react/static/css/main.7411700f.css.map",
+    "main.dcd2562e.js.map": "/facebook1-react/static/js/main.dcd2562e.js.map",
+    "453.857d52a9.chunk.js.map": "/facebook1-react/static/js/453.857d52a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7411700f.css",
+    "static/js/main.dcd2562e.js"
+  ]
+}
