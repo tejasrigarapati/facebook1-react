@@ -6,6 +6,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url(facebbok\ background.jpg);
 }
 
 .login-container {
